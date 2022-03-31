@@ -11,6 +11,13 @@ Tinder cards section conatins react-tinder-card
 tried: npm install --legacy-peer-deps @mui/material @emotion/react @emotion/styled <br>
 remember --legacy-peer-deps is important <br><br>
 
+## While working with NodeJS:
+First Problem appear with nodemon, tried the following steps:<br><br>
+ - First search and run PowerShell as administrator <br>
+ - Run : Get-ExecutionPolicy
+ - Set-ExecutionPolicy Unrestricted<br>
+It should be unrestricted <br>
+
 ## Available Scripts
 
 In the project directory, you can run:
