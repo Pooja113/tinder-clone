@@ -1,0 +1,171 @@
+[debug] [2022-03-31T17:28:56.381Z] ----------------------------------------------------------------------
+[debug] [2022-03-31T17:28:56.383Z] Command:       D:\nodejs\node.exe C:\Users\gocpa\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2022-03-31T17:28:56.383Z] CLI Version:   3.12.0
+[debug] [2022-03-31T17:28:56.383Z] Platform:      win32
+[debug] [2022-03-31T17:28:56.383Z] Node Version:  v16.14.2
+[debug] [2022-03-31T17:28:56.384Z] Time:          Thu Mar 31 2022 22:58:56 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:28:56.384Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-31T17:28:56.395Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2022-03-31T17:28:56.396Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gocpa\Desktop\tinder-app\tinder-clone
+
+[warn] !  You have have not selected any features. Continuing will simply associate this folder with a Firebase project. Press Ctrl + C if you want to start over.
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-03-31T17:29:00.371Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Mar 31 2022 22:59:00 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:29:22.356Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] [2022-03-31T17:29:25.454Z] ----------------------------------------------------------------------
+[debug] [2022-03-31T17:29:25.456Z] Command:       D:\nodejs\node.exe C:\Users\gocpa\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2022-03-31T17:29:25.456Z] CLI Version:   3.12.0
+[debug] [2022-03-31T17:29:25.456Z] Platform:      win32
+[debug] [2022-03-31T17:29:25.456Z] Node Version:  v16.14.2
+[debug] [2022-03-31T17:29:25.457Z] Time:          Thu Mar 31 2022 22:59:25 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:29:25.457Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-31T17:29:25.467Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2022-03-31T17:29:25.468Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gocpa\Desktop\tinder-app\tinder-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-03-31T17:29:31.510Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Mar 31 2022 22:59:31 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:29:53.067Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] [2022-03-31T17:30:06.888Z] ----------------------------------------------------------------------
+[debug] [2022-03-31T17:30:06.890Z] Command:       D:\nodejs\node.exe C:\Users\gocpa\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2022-03-31T17:30:06.890Z] CLI Version:   3.12.0
+[debug] [2022-03-31T17:30:06.890Z] Platform:      win32
+[debug] [2022-03-31T17:30:06.890Z] Node Version:  v16.14.2
+[debug] [2022-03-31T17:30:06.891Z] Time:          Thu Mar 31 2022 23:00:06 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:30:06.891Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-31T17:30:06.902Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2022-03-31T17:30:06.903Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gocpa\Desktop\tinder-app\tinder-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-03-31T17:30:15.826Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Mar 31 2022 23:00:15 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:30:37.534Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] [2022-03-31T17:30:42.735Z] ----------------------------------------------------------------------
+[debug] [2022-03-31T17:30:42.737Z] Command:       D:\nodejs\node.exe C:\Users\gocpa\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2022-03-31T17:30:42.737Z] CLI Version:   3.12.0
+[debug] [2022-03-31T17:30:42.737Z] Platform:      win32
+[debug] [2022-03-31T17:30:42.737Z] Node Version:  v16.14.2
+[debug] [2022-03-31T17:30:42.738Z] Time:          Thu Mar 31 2022 23:00:42 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:30:42.738Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-31T17:30:42.749Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2022-03-31T17:30:42.750Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gocpa\Desktop\tinder-app\tinder-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-03-31T17:30:46.936Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Mar 31 2022 23:00:46 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:31:08.515Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] [2022-03-31T17:31:12.918Z] ----------------------------------------------------------------------
+[debug] [2022-03-31T17:31:12.920Z] Command:       D:\nodejs\node.exe C:\Users\gocpa\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2022-03-31T17:31:12.921Z] CLI Version:   3.12.0
+[debug] [2022-03-31T17:31:12.921Z] Platform:      win32
+[debug] [2022-03-31T17:31:12.921Z] Node Version:  v16.14.2
+[debug] [2022-03-31T17:31:12.922Z] Time:          Thu Mar 31 2022 23:01:12 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:31:12.922Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-31T17:31:12.932Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2022-03-31T17:31:12.933Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gocpa\Desktop\tinder-app\tinder-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-03-31T17:31:23.768Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Mar 31 2022 23:01:23 GMT+0530 (India Standard Time)
+[debug] [2022-03-31T17:31:45.342Z] Error: connect ETIMEDOUT 104.197.85.31:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
