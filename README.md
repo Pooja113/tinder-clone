@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Started Building MERN Tinder Clone App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## During the project I got issue regarding Material UI as I am using React-18.0.0 
+tried: npm install --legacy-peer-deps @mui/material @emotion/react @emotion/styled <br>
+remember --legacy-peer-deps is important <br><br>
 
 ## Available Scripts
 
